@@ -35,4 +35,9 @@ cargo build
 
 cargo update
 
+## 3.1. Variables and Mutability
+
+cargo new variables
+
+
 
