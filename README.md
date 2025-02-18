@@ -39,5 +39,7 @@ cargo update
 
 cargo new variables
 
+## 3.2. Data Types
 
+...
 
