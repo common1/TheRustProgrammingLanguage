@@ -25,7 +25,14 @@ cargo check
 ## 2 Programming a Guessing Game
 [https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html]
 
+[https://doc.rust-lang.org/std/prelude/index.html]
+
 cargo new guessing_game
 
 cd guessing_game
+
+cargo build
+
+cargo update
+
 
